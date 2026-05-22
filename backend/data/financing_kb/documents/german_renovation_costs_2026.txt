@@ -1,0 +1,559 @@
+German Home Renovation Costs - 2026 Market Prices
+==================================================
+
+SOURCE: Based on 2026 German construction industry data, Statistisches Bundesamt, Baupreisindex, and major German banks
+
+IMPORTANT: All prices are averages for 2026. Actual costs vary by region, materials quality, contractor reputation, and project complexity.
+
+====================
+REGIONAL PRICE FACTORS (2026)
+====================
+
+Price multipliers by region (relative to national average):
+- Munich (München), Frankfurt, Stuttgart: +28% to +35%
+- Hamburg, Düsseldorf: +20% to +28%
+- Berlin, Cologne (Köln), Bonn: +15% to +22%
+- Dresden, Leipzig, Hannover, Bremen: Base price (1.0x)
+- Nuremberg, Karlsruhe, Mannheim: +8% to +15%
+- Rural areas (Ländliche Gebiete): -10% to -15%
+- Eastern Germany (Ostdeutschland, excluding Berlin): -12% to -18%
+
+====================
+KITCHEN RENOVATION COSTS
+====================
+
+Complete Kitchen Renovation by Size and Quality:
+
+Small Kitchen (8-12 sqm):
+- Budget quality: €10,000 - €18,000
+  * IKEA/Budget cabinets, laminate countertops, basic appliances
+  * DIY assembly possible, reduced labor costs
+- Standard quality: €18,000 - €32,000
+  * Quality German cabinets, quartz/solid surface countertops
+  * Mid-range appliances (Bosch, Siemens)
+- Premium quality: €32,000 - €55,000
+  * Custom cabinets, natural stone countertops
+  * High-end appliances (Miele, Gaggenau)
+- Luxury quality: €55,000 - €95,000+
+  * Bespoke cabinetry, marble countertops, professional appliances
+
+Medium Kitchen (13-18 sqm):
+- Budget quality: €15,000 - €25,000
+- Standard quality: €25,000 - €45,000
+- Premium quality: €45,000 - €75,000
+- Luxury quality: €75,000 - €130,000+
+
+Large Kitchen (19-25 sqm):
+- Budget quality: €22,000 - €35,000
+- Standard quality: €35,000 - €60,000
+- Premium quality: €60,000 - €100,000
+- Luxury quality: €100,000 - €180,000+
+
+ITEMIZED COST BREAKDOWN:
+
+Cabinets and Storage:
+- Budget cabinets: €400 - €700/linear meter
+- Standard quality (Nobilia, Nolte): €800 - €1,400/linear meter
+- Premium (SieMatic, bulthaup): €1,500 - €2,800/linear meter
+- Luxury bespoke: €3,000 - €6,000+/linear meter
+
+Countertops (Arbeitsplatten):
+- Laminate: €80 - €150/linear meter
+- Solid surface (Corian): €250 - €450/linear meter
+- Quartz (Silestone, Caesarstone): €350 - €650/linear meter
+- Granite: €400 - €750/linear meter
+- Marble (Carrara, Calacatta): €600 - €1,200/linear meter
+
+Appliances (Einbaugeräte):
+- Budget package (Hob, Oven, Hood, Dishwasher, Fridge): €2,500 - €4,500
+- Standard (Bosch, Siemens): €5,000 - €9,000
+- Premium (Miele, AEG): €9,000 - €16,000
+- Luxury (Gaggenau, Sub-Zero): €18,000 - €35,000+
+
+Sink and Faucet:
+- Budget: €150 - €350
+- Standard (Blanco, Franke): €400 - €800
+- Premium (Villeroy & Boch): €850 - €1,600
+
+Backsplash (Küchenrückwand):
+- Tiles: €40 - €120/sqm (material + installation)
+- Glass panel: €200 - €450/sqm
+- Natural stone: €150 - €400/sqm
+
+Flooring:
+- Vinyl/Laminate: €30 - €60/sqm (material + installation)
+- Quality tiles: €60 - €120/sqm
+- Natural stone tiles: €100 - €200/sqm
+
+Labor Costs (Handwerker):
+- Kitchen fitter (Küchenmonteur): €55 - €85/hour
+- Plumber (Installateur): €65 - €95/hour
+- Electrician (Elektriker): €55 - €85/hour
+- Typical installation time: 40-80 hours for standard kitchen
+
+====================
+BATHROOM RENOVATION COSTS
+====================
+
+Complete Bathroom Renovation by Size and Quality:
+
+Small Bathroom (3-5 sqm):
+- Budget renovation: €8,000 - €15,000
+  * Basic tiles, standard fixtures, minimal custom work
+- Standard renovation: €15,000 - €25,000
+  * Quality tiles, Grohe/Hansgrohe fixtures, proper waterproofing
+- Premium renovation: €25,000 - €42,000
+  * Designer tiles, Duravit/Villeroy&Boch, underfloor heating
+- Luxury renovation: €42,000 - €75,000+
+  * Natural stone, smart fixtures, spa features
+
+Medium Bathroom (6-10 sqm):
+- Budget: €12,000 - €20,000
+- Standard: €20,000 - €35,000
+- Premium: €35,000 - €60,000
+- Luxury: €60,000 - €95,000+
+
+Large Bathroom (11-15 sqm):
+- Budget: €18,000 - €28,000
+- Standard: €28,000 - €48,000
+- Premium: €48,000 - €80,000
+- Luxury: €80,000 - €140,000+
+
+ITEMIZED COSTS:
+
+Tiles (Fliesen):
+- Budget ceramic: €20 - €40/sqm (material)
+- Standard porcelain: €40 - €80/sqm
+- Premium large format: €80 - €150/sqm
+- Natural stone/marble: €120 - €300/sqm
+- Tile installation labor: €40 - €70/sqm
+
+Bathroom Fixtures:
+Toilets:
+- Budget (standard brands): €180 - €350
+- Standard (Villeroy & Boch, Duravit): €350 - €750
+- Premium designer series: €750 - €1,800
+- Smart toilet with bidet: €1,800 - €4,500
+
+Washbasins and Vanities:
+- Budget sink + vanity: €250 - €600
+- Standard quality: €600 - €1,500
+- Premium designer: €1,500 - €3,500
+- Custom bespoke: €3,500 - €8,000+
+
+Shower Enclosures:
+- Budget shower tray + curtain: €300 - €600
+- Standard glass enclosure: €800 - €1,800
+- Premium frameless glass: €1,800 - €3,500
+- Walk-in with designer glass: €3,500 - €7,000
+
+Bathtubs:
+- Acrylic standard: €350 - €800
+- Steel enamel (Bette, Kaldewei): €800 - €1,800
+- Premium acrylic: €1,200 - €2,500
+- Freestanding designer: €2,000 - €5,000
+- Stone resin/Cast iron luxury: €4,000 - €12,000+
+
+Faucets and Showers:
+- Budget chrome mixer: €80 - €180
+- Standard (Grohe): €200 - €500
+- Premium (Hansgrohe): €500 - €1,200
+- Luxury (Dornbracht): €1,200 - €3,000+
+
+Waterproofing (Abdichtung):
+- Standard membrane: €35 - €55/sqm
+- Premium tanking system: €60 - €90/sqm
+
+Underfloor Heating:
+- Electric heating mats: €60 - €100/sqm (installed)
+- Water-based system: €85 - €140/sqm (installed)
+
+Ventilation:
+- Basic exhaust fan: €150 - €350
+- Humidity-controlled: €350 - €750
+- Heat recovery ventilation: €1,200 - €2,500
+
+Labor Costs:
+- Bathroom installer: €60 - €90/hour
+- Tile layer (Fliesenleger): €50 - €80/hour
+- Plumber for fixtures: €65 - €95/hour
+- Electrician: €55 - €85/hour
+- Typical project: 80-150 hours total labor
+
+====================
+BASEMENT RENOVATION COSTS
+====================
+
+Basement Conversion/Renovation (per sqm):
+- Basic finishing (unfinished to livable): €450 - €750/sqm
+- Standard renovation: €750 - €1,200/sqm
+- Premium finish: €1,200 - €1,800/sqm
+
+For 50 sqm basement:
+- Basic: €22,500 - €37,500
+- Standard: €37,500 - €60,000
+- Premium: €60,000 - €90,000
+
+Key Components:
+
+Moisture Control and Waterproofing:
+- Interior waterproofing: €60 - €120/sqm
+- Exterior excavation + waterproofing: €200 - €400/sqm
+- Sump pump system: €800 - €2,000
+
+Insulation:
+- Wall insulation (interior): €40 - €80/sqm
+- Floor insulation: €30 - €60/sqm
+- Ceiling insulation: €25 - €50/sqm
+
+Flooring:
+- Vinyl/laminate: €30 - €55/sqm
+- Tiles: €50 - €100/sqm
+- Engineered wood: €60 - €120/sqm
+
+Wall Finishing:
+- Drywall installation: €35 - €60/sqm
+- Plastering: €25 - €45/sqm
+- Painting: €15 - €30/sqm
+
+Ceiling:
+- Drywall ceiling: €40 - €70/sqm
+- Suspended ceiling: €45 - €80/sqm
+
+Electrical:
+- Basic wiring + outlets: €2,500 - €4,500 for 50sqm
+- Comprehensive system: €5,000 - €8,000
+
+Lighting:
+- Budget LED fixtures: €40 - €80 each
+- Quality recessed lights: €80 - €150 each
+- Designer fixtures: €150 - €400 each
+
+Plumbing (if adding bathroom):
+- Basic bathroom addition: €8,000 - €15,000
+- Standard quality: €15,000 - €25,000
+
+====================
+ROOFING RENOVATION COSTS
+====================
+
+Roof Renovation/Replacement (per sqm of roof area):
+
+Roof Covering Materials:
+- Concrete tiles: €85 - €130/sqm (installed)
+- Clay tiles (Tonziegel): €110 - €190/sqm
+- Slate (Schiefer): €130 - €280/sqm
+- Metal roofing (standing seam): €90 - €170/sqm
+- Flat roof membrane: €80 - €140/sqm
+
+Roof Structure Repair:
+- Rafter repair: €50 - €100/sqm
+- Complete new roof structure: €120 - €200/sqm
+
+Insulation (Dachdämmung):
+- Basic insulation (14cm): €50 - €85/sqm
+- Enhanced insulation (20cm): €70 - €110/sqm
+- Premium KfW standard (24-28cm): €90 - €150/sqm
+
+For typical 120 sqm pitched roof:
+- Re-covering only: €10,000 - €23,000
+- Re-covering + basic insulation: €15,000 - €28,000
+- Complete renovation + premium insulation: €25,000 - €42,000
+
+Flat Roof Renovation (80 sqm):
+- Membrane replacement: €6,400 - €11,000
+- With insulation upgrade: €10,000 - €18,000
+- Green roof conversion: €15,000 - €30,000
+
+Gutters and Downpipes:
+- Plastic system: €30 - €55/meter
+- Zinc: €60 - €100/meter
+- Copper: €90 - €150/meter
+
+Skylights (Dachfenster):
+- Standard Velux: €500 - €900 (installed)
+- Premium with electric blinds: €1,200 - €2,200
+- Large custom skylight: €2,500 - €6,000
+
+Labor:
+- Roofer (Dachdecker): €55 - €85/hour
+- Scaffolding rental: €800 - €2,000 (typical project)
+
+====================
+ELECTRICAL RENOVATION COSTS
+====================
+
+Complete House Electrical Upgrade:
+
+Distribution Board (Sicherungskasten):
+- Basic replacement: €800 - €1,500
+- Modern smart board: €1,500 - €3,000
+
+Wiring Replacement (per room):
+- Budget (surface mounting): €800 - €1,500
+- Standard (concealed wiring): €1,500 - €2,800
+- Premium (with smart home): €2,800 - €5,000
+
+Power Points and Switches:
+- Standard outlet installation: €80 - €150 each
+- USB charging outlet: €120 - €200 each
+- Designer switches (Gira, Jung): €40 - €120 each
+- Smart switches: €80 - €200 each
+
+Lighting Installation:
+- Basic LED ceiling light: €60 - €120 (installed)
+- Recessed spotlights: €80 - €150 each
+- Designer pendant lights: €150 - €500 each
+- Smart lighting system: €200 - €600 per room
+
+Typical whole-house electrical renovation (100 sqm apartment):
+- Basic upgrade: €8,000 - €15,000
+- Standard modernization: €15,000 - €25,000
+- Premium with smart home: €25,000 - €45,000
+
+Labor:
+- Electrician: €55 - €85/hour
+- Typical project: 60-120 hours
+
+====================
+PLUMBING RENOVATION COSTS
+====================
+
+Complete House Plumbing Upgrade:
+
+Pipe Replacement (per meter):
+- Copper pipes: €35 - €60/meter (installed)
+- PEX pipes: €25 - €45/meter
+- PVC drainage: €20 - €40/meter
+
+Hot Water System:
+- Gas boiler (Gastherme): €2,500 - €5,000
+- Electric water heater: €800 - €2,000
+- Heat pump water heater: €3,500 - €7,000
+- Solar thermal system: €5,000 - €12,000
+
+Drainage System:
+- Interior drainage replacement: €80 - €150/meter
+- Exterior sewer connection: €150 - €300/meter
+
+Typical whole-house plumbing renovation (100 sqm):
+- Partial upgrade (critical areas): €8,000 - €15,000
+- Complete replacement: €18,000 - €35,000
+- Premium with efficiency upgrades: €35,000 - €55,000
+
+Labor:
+- Plumber: €65 - €95/hour
+
+====================
+HVAC RENOVATION COSTS
+====================
+
+Heating System Replacement:
+
+Gas Heating:
+- Gas condensing boiler (Brennwerttherme): €4,000 - €8,000 (installed)
+- Premium efficient model: €8,000 - €12,000
+
+Heat Pump Systems:
+- Air-source heat pump: €12,000 - €20,000
+- Ground-source heat pump: €20,000 - €35,000
+- Hybrid system (heat pump + gas): €15,000 - €25,000
+
+Radiators:
+- Standard panel radiators: €200 - €400 each
+- Designer radiators: €400 - €1,000 each
+- Installation labor: €150 - €300 per radiator
+
+Underfloor Heating (Fußbodenheizung):
+- Electric system: €60 - €100/sqm
+- Water-based system: €80 - €140/sqm
+
+Air Conditioning:
+- Single split unit: €2,000 - €4,000
+- Multi-split (3 rooms): €6,000 - €12,000
+- Central ducted system: €15,000 - €30,000
+
+Ventilation with Heat Recovery (Lüftungsanlage):
+- Decentralized units: €4,000 - €8,000
+- Central system (whole house): €8,000 - €18,000
+
+====================
+FLOORING RENOVATION COSTS
+====================
+
+Flooring by Type (per sqm, installed):
+
+Laminate:
+- Budget quality: €18 - €30/sqm
+- Standard quality: €30 - €50/sqm
+- Premium quality: €50 - €75/sqm
+
+Engineered Wood:
+- Standard oak: €50 - €80/sqm
+- Premium wood: €80 - €130/sqm
+
+Solid Wood Parquet:
+- Standard: €70 - €110/sqm
+- Premium hardwood: €110 - €180/sqm
+
+Tiles:
+- Budget ceramic: €30 - €50/sqm
+- Standard porcelain: €50 - €85/sqm
+- Premium large format: €85 - €140/sqm
+- Natural stone: €100 - €200/sqm
+
+Vinyl/LVT:
+- Budget: €20 - €35/sqm
+- Premium quality: €35 - €65/sqm
+
+Carpet:
+- Standard: €20 - €40/sqm
+- Premium: €40 - €80/sqm
+
+Subfloor Preparation:
+- Leveling compound: €15 - €30/sqm
+- Soundproofing underlayment: €10 - €25/sqm
+
+Typical 80 sqm apartment flooring:
+- Budget (laminate): €1,500 - €2,500
+- Standard (engineered wood): €4,000 - €7,000
+- Premium (solid parquet): €6,000 - €12,000
+
+====================
+WINDOWS & DOORS RENOVATION COSTS
+====================
+
+Windows (per window, installed):
+
+Standard Size Window (120cm x 120cm):
+- PVC double glazing: €400 - €700
+- PVC triple glazing: €600 - €1,000
+- Wood-aluminum double glazing: €800 - €1,400
+- Wood-aluminum triple glazing: €1,000 - €1,800
+
+Large Window (180cm x 180cm):
+- PVC triple glazing: €1,000 - €1,600
+- Wood-aluminum triple glazing: €1,600 - €2,800
+
+Entrance Doors:
+- Standard PVC door: €1,200 - €2,200
+- Aluminum door: €2,000 - €4,000
+- Wood door: €2,500 - €5,000
+- High-security door: €3,500 - €7,000
+
+Interior Doors (per door):
+- Standard hollow core: €150 - €300
+- Solid wood door: €300 - €700
+- Premium designer door: €700 - €1,800
+
+For typical apartment (8 windows + 1 entrance door):
+- Budget upgrade: €5,000 - €9,000
+- Standard upgrade: €9,000 - €16,000
+- Premium upgrade: €16,000 - €28,000
+
+====================
+EXTERIOR/FACADE RENOVATION COSTS
+====================
+
+Facade Work (per sqm):
+
+Painting:
+- Simple paint refresh: €20 - €35/sqm
+- Complete paint system: €30 - €50/sqm
+
+Render/Plaster (Putz):
+- Basic mineral render: €40 - €70/sqm
+- Premium silicate render: €60 - €95/sqm
+
+WDVS (Exterior Insulation):
+- EPS insulation + render: €80 - €130/sqm
+- Mineral wool insulation: €100 - €160/sqm
+- Wood fiber (ecological): €130 - €200/sqm
+
+Cladding:
+- Wood cladding: €100 - €180/sqm
+- Fiber cement panels: €120 - €200/sqm
+- Metal panels: €150 - €280/sqm
+
+For 150 sqm facade:
+- Paint only: €3,000 - €7,500
+- Insulation + render: €12,000 - €24,000
+- Premium cladding system: €18,000 - €42,000
+
+Scaffolding:
+- Rental for 4 weeks: €1,200 - €2,500
+
+====================
+GENERAL RENOVATION COSTS
+====================
+
+Complete House Renovation (per sqm living area):
+
+Light Renovation (cosmetic only):
+- Painting, flooring, minor updates: €250 - €450/sqm
+
+Standard Renovation:
+- New flooring, bathroom, kitchen, windows: €800 - €1,400/sqm
+
+Comprehensive Renovation:
+- All systems, full gut renovation: €1,400 - €2,200/sqm
+
+Premium Full Renovation:
+- High-end materials, smart systems: €2,200 - €3,500/sqm
+
+For 100 sqm apartment:
+- Light renovation: €25,000 - €45,000
+- Standard: €80,000 - €140,000
+- Comprehensive: €140,000 - €220,000
+- Premium: €220,000 - €350,000+
+
+====================
+CONTINGENCY PLANNING
+====================
+
+Recommended contingency reserves:
+
+- New construction: +10%
+- Modern building (post-2000): +15%
+- Standard building (1980-2000): +15-20%
+- Older building (1960-1980): +20-25%
+- Old building (pre-1960): +25-30%
+- Historic building (pre-1900): +30-40%
+- Major structural work: +25-35%
+- Apartment in multi-unit: +15-20% (neighbor approvals, access issues)
+
+====================
+LABOR HOURLY RATES (2026 AVERAGE)
+====================
+
+Skilled Trades (Handwerker):
+- Mason (Maurer): €55 - €80/hour
+- Carpenter (Schreiner): €55 - €85/hour
+- Electrician (Elektriker): €55 - €85/hour
+- Plumber (Installateur): €65 - €95/hour
+- Painter (Maler): €40 - €65/hour
+- Tile layer (Fliesenleger): €50 - €80/hour
+- Roofer (Dachdecker): €55 - €85/hour
+- Floor layer (Bodenleger): €45 - €70/hour
+- HVAC technician: €60 - €90/hour
+
+Professional Services:
+- Architect (Architekt): €80 - €150/hour (or 10-15% of construction cost)
+- Structural engineer: €90 - €160/hour
+- Energy consultant (Energieberater): €80 - €130/hour (or €1,500-3,000 flat fee)
+- Building surveyor: €500 - €1,500 per visit
+
+====================
+IMPORTANT NOTES
+====================
+
+1. All prices include 19% VAT (MwSt) unless specified otherwise
+2. Prices are for standard working hours (Mon-Fri, 7am-6pm)
+3. Weekend/emergency work: +50% to +100% premium
+4. Difficult access or high-rise work: +15% to +30%
+5. Historical building work: +20% to +40% due to special requirements
+6. Disposal costs (Entsorgung): €150 - €400 per ton of construction waste
+7. Always get multiple quotes (Kostenvoranschläge) - minimum 3 contractors
+8. Building permits can add €500 - €5,000 depending on project scope
+9. Temporary accommodation during major renovation: factor in €1,000-2,000/month
+10. Energy efficiency upgrades may qualify for KfW/BAFA subsidies (see financing documents)

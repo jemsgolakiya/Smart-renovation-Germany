@@ -1,0 +1,825 @@
+/* Markdown Content Styling */
+.markdown-content {
+	@apply text-gray-700;
+}
+
+.markdown-content h1 {
+	@apply text-2xl font-bold text-gray-900 mt-6 mb-4 border-b border-gray-200 pb-2;
+}
+
+.markdown-content h2 {
+	@apply text-xl font-bold text-gray-900 mt-5 mb-3;
+}
+
+.markdown-content h3 {
+	@apply text-lg font-semibold text-gray-800 mt-4 mb-2;
+}
+
+.markdown-content p {
+	@apply text-gray-700 leading-relaxed mb-4;
+}
+
+.markdown-content ul {
+	@apply list-disc list-inside mb-4 space-y-2;
+}
+
+.markdown-content ol {
+	@apply list-decimal list-inside mb-4 space-y-2;
+}
+
+.markdown-content li {
+	@apply text-gray-700;
+}
+
+.markdown-content strong {
+	@apply font-semibold text-gray-900;
+}
+
+/* Modern Card Styles */
+.stat-card {
+	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.stat-card:hover {
+	transform: translateY(-2px);
+}
+
+/* Recommendation Badge Animations */
+@keyframes fadeInScale {
+	from {
+		opacity: 0;
+		transform: scale(0.95);
+	}
+	to {
+		opacity: 1;
+		transform: scale(1);
+	}
+}
+
+.stat-card,
+[class*="bg-"][class*="border-"][class*="rounded"] {
+	animation: fadeInScale 0.3s ease-out;
+}
+
+/* Rating Bar Animations */
+@keyframes fillBar {
+	from {
+		width: 0;
+	}
+}
+
+.rating-bar {
+	animation: fillBar 0.6s ease-out;
+}
+
+/* Collapsible Section Transitions */
+[data-collapsible] {
+	animation: fadeInScale 0.2s ease-out;
+}
+
+/* Enhanced animations */
+@keyframes subtlePulse {
+	0%, 100% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	50% {
+		opacity: 0.9;
+		transform: scale(1.02);
+	}
+}
+
+/* Comparison Summary Section */
+.comparison-summary-card {
+	@apply bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-50;
+	@apply border-2 border-emerald-200 rounded-2xl overflow-hidden;
+	@apply shadow-lg;
+	position: relative;
+}
+
+.comparison-summary-card::before {
+	content: '';
+	@apply absolute top-0 left-0 right-0 h-1.5;
+	@apply bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500;
+}
+
+.comparison-summary-content {
+	@apply p-8;
+}
+
+.comparison-summary-header {
+	@apply flex items-start gap-5 mb-6;
+}
+
+.comparison-summary-icon-wrapper {
+	@apply relative;
+}
+
+.comparison-summary-icon {
+	@apply w-16 h-16 rounded-2xl flex items-center justify-center;
+	@apply bg-gradient-to-br from-emerald-500 to-teal-600;
+	@apply shadow-xl;
+	animation: subtlePulse 2s ease-in-out infinite;
+}
+
+.comparison-summary-text {
+	@apply flex-1;
+}
+
+.comparison-summary-title {
+	@apply text-2xl font-black text-gray-900 mb-3;
+	@apply bg-gradient-to-r from-emerald-600 to-teal-600;
+	@apply bg-clip-text text-transparent;
+}
+
+.comparison-summary-description {
+	@apply text-gray-700 leading-relaxed mb-2 text-base;
+}
+
+.comparison-summary-reasoning {
+	@apply text-gray-600 text-sm italic;
+	@apply bg-white bg-opacity-50 rounded-lg px-4 py-2;
+	@apply border-l-4 border-emerald-400;
+}
+
+/* Contractor Quick Cards */
+.contractor-quick-cards {
+	@apply grid grid-cols-1 md:grid-cols-3 gap-4 mt-6;
+}
+
+.contractor-quick-card {
+	@apply relative overflow-hidden;
+	@apply bg-white rounded-xl p-5;
+	@apply border-2 transition-all duration-300;
+	@apply shadow-md hover:shadow-xl;
+}
+
+.contractor-quick-card:hover {
+	transform: translateY(-4px);
+}
+
+.contractor-quick-card.recommended {
+	@apply border-emerald-400;
+	background: linear-gradient(135deg, #ffffff 0%, #f0fdf4 100%);
+}
+
+.contractor-quick-card.runner-up {
+	@apply border-blue-400;
+	background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
+}
+
+.contractor-quick-card.best-value {
+	@apply border-purple-400;
+	background: linear-gradient(135deg, #ffffff 0%, #faf5ff 100%);
+}
+
+.contractor-quick-label {
+	@apply flex items-center gap-2 mb-2;
+	@apply text-xs font-bold uppercase tracking-wider;
+}
+
+.contractor-quick-label.recommended {
+	@apply text-emerald-700;
+}
+
+.contractor-quick-label.runner-up {
+	@apply text-blue-700;
+}
+
+.contractor-quick-label.best-value {
+	@apply text-purple-700;
+}
+
+.contractor-quick-icon {
+	@apply w-4 h-4;
+}
+
+.contractor-quick-name {
+	@apply text-lg font-bold text-gray-900;
+	@apply truncate;
+}
+
+.contractor-quick-badge {
+	@apply inline-flex items-center gap-1.5 mt-2;
+	@apply text-xs font-semibold px-3 py-1 rounded-full;
+	transition: all 0.2s ease;
+}
+
+.contractor-quick-card.recommended .contractor-quick-badge {
+	@apply bg-emerald-100 text-emerald-800 border border-emerald-300;
+}
+
+.contractor-quick-card.runner-up .contractor-quick-badge {
+	@apply bg-blue-100 text-blue-800 border border-blue-300;
+}
+
+.contractor-quick-card.best-value .contractor-quick-badge {
+	@apply bg-purple-100 text-purple-800 border border-purple-300;
+}
+
+/* Summary Stats */
+.summary-stats {
+	@apply flex flex-wrap gap-4 mt-6 pt-6 border-t border-emerald-200;
+}
+
+.summary-stat-item {
+	@apply flex items-center gap-3;
+	@apply bg-white bg-opacity-70 rounded-lg px-4 py-2;
+	@apply border border-emerald-200;
+	transition: all 0.2s ease;
+}
+
+.summary-stat-item:hover {
+	@apply bg-opacity-100 shadow-md;
+	transform: translateY(-2px);
+}
+
+.summary-stat-icon {
+	@apply w-8 h-8 rounded-lg flex items-center justify-center;
+	@apply bg-gradient-to-br;
+}
+
+.summary-stat-icon.contractors {
+	@apply from-emerald-400 to-green-600;
+}
+
+.summary-stat-icon.range {
+	@apply from-blue-400 to-sky-600;
+}
+
+.summary-stat-icon.timeline {
+	@apply from-purple-400 to-violet-600;
+}
+
+.summary-stat-icon.download {
+	@apply from-orange-400 to-red-600;
+}
+
+.summary-stat-button {
+	@apply transition-all duration-200;
+	border: 2px solid transparent;
+}
+
+.summary-stat-button:hover:not(:disabled) {
+	@apply bg-opacity-100 shadow-lg border-orange-300;
+	transform: translateY(-3px);
+}
+
+.summary-stat-button:disabled {
+	@apply opacity-70 cursor-not-allowed;
+}
+
+.summary-stat-content {
+	@apply flex flex-col;
+}
+
+.summary-stat-label {
+	@apply text-xs text-gray-600 uppercase tracking-wide;
+}
+
+.summary-stat-value {
+	@apply text-sm font-bold text-gray-900;
+}
+
+/* Key Differences Section */
+.key-differences-card {
+	@apply bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50;
+	@apply border-2 border-blue-200 rounded-xl p-6;
+	@apply shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+.difference-item {
+	@apply relative pl-10 pr-4 py-3;
+	@apply bg-white bg-opacity-90 rounded-lg;
+	@apply border-l-4 border-blue-400;
+	@apply shadow-sm;
+	transition: all 0.2s ease;
+}
+
+.difference-item:hover {
+	@apply border-blue-600 bg-opacity-100 shadow-md;
+	transform: translateX(6px);
+}
+
+.difference-item::before {
+	content: '🔍';
+	@apply absolute left-3 top-3 text-lg;
+}
+
+.difference-content {
+	@apply text-sm text-gray-800 leading-relaxed font-medium;
+}
+
+.difference-badge {
+	@apply inline-flex items-center gap-1.5 px-3 py-1;
+	@apply bg-blue-100 border border-blue-300 rounded-full;
+	@apply text-xs font-semibold text-blue-800;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Contractor Comparison Cards */
+.contractor-card {
+	@apply relative rounded-xl overflow-hidden;
+	@apply bg-white border-2 border-gray-200;
+	@apply shadow-md transition-all duration-300;
+}
+
+.contractor-card:hover {
+	@apply shadow-xl;
+	transform: translateY(-4px);
+}
+
+.contractor-card.recommended {
+	@apply border-emerald-400 bg-gradient-to-br from-emerald-50 to-green-50;
+	box-shadow: 0 8px 20px rgba(16, 185, 129, 0.15);
+}
+
+.contractor-card.recommended::before {
+	content: '';
+	@apply absolute top-0 left-0 right-0 h-1;
+	@apply bg-gradient-to-r from-emerald-400 via-green-500 to-teal-500;
+}
+
+.contractor-header {
+	@apply flex items-start justify-between p-6 pb-4;
+	@apply border-b border-gray-200;
+}
+
+.contractor-card.recommended .contractor-header {
+	@apply border-emerald-200;
+}
+
+.contractor-name-section {
+	@apply flex-1;
+}
+
+.contractor-name {
+	@apply text-xl font-bold text-gray-900;
+	@apply flex items-center gap-2 mb-2;
+}
+
+.recommended-badge {
+	@apply inline-flex items-center gap-1.5;
+	@apply bg-gradient-to-r from-emerald-500 to-green-600;
+	@apply text-white text-xs font-bold;
+	@apply px-3 py-1 rounded-full;
+	@apply shadow-md;
+	animation: subtlePulse 2s ease-in-out infinite;
+}
+
+.contractor-price {
+	@apply text-2xl font-extrabold text-gray-900;
+	@apply bg-gradient-to-r from-emerald-600 to-green-600;
+	@apply bg-clip-text text-transparent;
+}
+
+.contractor-timeline {
+	@apply text-sm text-gray-600 font-medium;
+	@apply flex items-center gap-1.5 mt-1;
+}
+
+.contractor-rating-section {
+	@apply text-right;
+	@apply bg-gradient-to-br from-emerald-400 to-green-600;
+	@apply rounded-xl p-4 shadow-lg;
+}
+
+.contractor-overall-rating {
+	@apply text-4xl font-black text-white;
+	@apply drop-shadow-md;
+}
+
+.contractor-rating-label {
+	@apply text-xs text-emerald-100 font-medium uppercase tracking-wide;
+	@apply mt-1;
+}
+
+/* Rating bars section */
+.contractor-ratings {
+	@apply grid grid-cols-2 gap-4 px-6 py-4;
+	@apply bg-gradient-to-b from-gray-50 to-white;
+}
+
+.rating-item {
+	@apply space-y-2;
+}
+
+.rating-header {
+	@apply flex items-center justify-between;
+}
+
+.rating-label {
+	@apply flex items-center gap-2;
+	@apply text-xs font-semibold text-gray-700 uppercase tracking-wide;
+}
+
+.rating-icon {
+	@apply w-4 h-4;
+}
+
+.rating-value {
+	@apply text-sm font-bold text-gray-900;
+}
+
+.rating-bar-container {
+	@apply relative w-full h-3 bg-gray-200 rounded-full overflow-hidden;
+	@apply shadow-inner;
+}
+
+.rating-bar-fill {
+	@apply absolute top-0 left-0 h-full rounded-full;
+	@apply transition-all duration-700 ease-out;
+	animation: fillBar 0.8s ease-out;
+}
+
+.rating-bar-fill.price {
+	@apply bg-gradient-to-r from-emerald-400 to-green-600;
+	box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);
+}
+
+.rating-bar-fill.timeline {
+	@apply bg-gradient-to-r from-blue-400 to-sky-600;
+	box-shadow: 0 2px 6px rgba(59, 130, 246, 0.3);
+}
+
+.rating-bar-fill.quality {
+	@apply bg-gradient-to-r from-purple-400 to-violet-600;
+	box-shadow: 0 2px 6px rgba(147, 51, 234, 0.3);
+}
+
+.rating-bar-fill.terms {
+	@apply bg-gradient-to-r from-amber-400 to-orange-600;
+	box-shadow: 0 2px 6px rgba(251, 146, 60, 0.3);
+}
+
+/* Strengths and weaknesses section */
+.contractor-sw-section {
+	@apply grid grid-cols-1 md:grid-cols-2 gap-4 px-6 py-4;
+}
+
+.strengths-section {
+	@apply bg-gradient-to-br from-green-50 to-emerald-50;
+	@apply border border-green-200 rounded-lg p-4;
+}
+
+.weaknesses-section {
+	@apply bg-gradient-to-br from-red-50 to-rose-50;
+	@apply border border-red-200 rounded-lg p-4;
+}
+
+.sw-header {
+	@apply flex items-center gap-2 mb-3;
+	@apply text-xs font-bold uppercase tracking-wide;
+}
+
+.strengths-section .sw-header {
+	@apply text-green-800;
+}
+
+.weaknesses-section .sw-header {
+	@apply text-red-800;
+}
+
+.sw-list {
+	@apply space-y-2;
+}
+
+.sw-item {
+	@apply flex items-start gap-2;
+	@apply text-xs text-gray-700 leading-relaxed;
+	@apply bg-white bg-opacity-60 rounded px-2 py-1.5;
+	transition: all 0.2s ease;
+}
+
+.sw-item:hover {
+	@apply bg-opacity-100 shadow-sm;
+	transform: translateX(2px);
+}
+
+.sw-item .icon {
+	@apply flex-shrink-0 mt-0.5;
+}
+
+.strengths-section .sw-item .icon {
+	@apply text-green-600;
+}
+
+.weaknesses-section .sw-item .icon {
+	@apply text-red-600;
+}
+
+/* Risk footer */
+.contractor-footer {
+	@apply px-6 py-3 border-t border-gray-200;
+	@apply bg-gradient-to-r from-gray-50 to-gray-100;
+}
+
+.contractor-card.recommended .contractor-footer {
+	@apply border-emerald-200 from-emerald-50 to-green-50;
+}
+
+.risk-indicator {
+	@apply flex items-center gap-2;
+	@apply text-sm font-semibold;
+}
+
+.risk-dot {
+	@apply w-2.5 h-2.5 rounded-full;
+}
+
+.risk-dot.low {
+	@apply bg-green-500;
+	box-shadow: 0 0 8px rgba(34, 197, 94, 0.6);
+}
+
+.risk-dot.medium {
+	@apply bg-yellow-500;
+	box-shadow: 0 0 8px rgba(234, 179, 8, 0.6);
+}
+
+.risk-dot.high {
+	@apply bg-red-500;
+	box-shadow: 0 0 8px rgba(239, 68, 68, 0.6);
+}
+
+/* Contractor comparison header */
+.contractor-comparison-header {
+	@apply flex items-center gap-3 mb-6;
+}
+
+.contractor-comparison-icon {
+	@apply w-10 h-10 rounded-lg flex items-center justify-center;
+	@apply bg-gradient-to-br from-emerald-400 to-green-600;
+	@apply shadow-md;
+}
+
+/* Detailed Comparisons Section */
+.detailed-comparison-card {
+	@apply bg-white border-2 border-gray-200 rounded-xl overflow-hidden;
+	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.detailed-comparison-card:hover {
+	@apply border-emerald-300 shadow-lg;
+	transform: translateY(-2px);
+}
+
+.comparison-item {
+	@apply relative pl-12 pr-4 py-4 border-l-4 bg-gradient-to-r;
+	transition: all 0.2s ease;
+}
+
+.comparison-item:hover {
+	@apply bg-opacity-70;
+	transform: translateX(4px);
+}
+
+.comparison-item-icon {
+	@apply absolute left-3 top-4 w-8 h-8 rounded-lg flex items-center justify-center;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comparison-item-price {
+	@apply from-emerald-50 to-green-50 border-emerald-400;
+}
+
+.comparison-item-timeline {
+	@apply from-blue-50 to-sky-50 border-blue-400;
+}
+
+.comparison-item-quality {
+	@apply from-purple-50 to-violet-50 border-purple-400;
+}
+
+/* Trade-offs Section */
+.tradeoff-card {
+	@apply bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50;
+	@apply border-2 border-yellow-200 rounded-xl p-6;
+	@apply shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+.tradeoff-item {
+	@apply relative pl-10 pr-4 py-3;
+	@apply bg-white bg-opacity-70 rounded-lg;
+	@apply border border-yellow-200;
+	transition: all 0.2s ease;
+}
+
+.tradeoff-item:hover {
+	@apply border-yellow-400 bg-opacity-100 shadow-sm;
+	transform: translateX(4px);
+}
+
+.tradeoff-item::before {
+	content: '⚖️';
+	@apply absolute left-3 top-3 text-lg;
+}
+
+.tradeoff-badge {
+	@apply inline-flex items-center gap-1.5 px-3 py-1;
+	@apply bg-yellow-100 border border-yellow-300 rounded-full;
+	@apply text-xs font-semibold text-yellow-800;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Negotiation Opportunities Section */
+.negotiation-card {
+	@apply bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50;
+	@apply border-2 border-teal-200 rounded-xl p-6;
+	@apply shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+.negotiation-item {
+	@apply relative pl-10 pr-4 py-3;
+	@apply bg-white bg-opacity-80 rounded-lg;
+	@apply border border-teal-200;
+	transition: all 0.2s ease;
+}
+
+.negotiation-item:hover {
+	@apply border-teal-400 bg-opacity-100 shadow-sm;
+	transform: translateX(4px);
+}
+
+.negotiation-item::before {
+	content: '💼';
+	@apply absolute left-3 top-3 text-lg;
+}
+
+.negotiation-badge {
+	@apply inline-flex items-center gap-1.5 px-3 py-1;
+	@apply bg-teal-100 border border-teal-300 rounded-full;
+	@apply text-xs font-semibold text-teal-800;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Next Steps Section */
+.next-steps-card {
+	@apply bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50;
+	@apply border-2 border-amber-300 rounded-xl p-6;
+	@apply shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+.step-item {
+	@apply relative pl-12 pr-4 py-4;
+	@apply bg-white bg-opacity-90 rounded-lg;
+	@apply border-l-4 border-amber-400;
+	@apply shadow-sm;
+	transition: all 0.2s ease;
+}
+
+.step-item:hover {
+	@apply border-amber-500 shadow-md;
+	transform: translateX(6px);
+}
+
+.step-number {
+	@apply absolute left-3 top-3;
+	@apply w-7 h-7 rounded-full;
+	@apply bg-gradient-to-br from-amber-400 to-orange-500;
+	@apply flex items-center justify-center;
+	@apply text-white font-bold text-sm;
+	box-shadow: 0 2px 6px rgba(251, 146, 60, 0.4);
+}
+
+.step-content {
+	@apply text-sm text-gray-800 leading-relaxed;
+	@apply font-medium;
+}
+
+.step-divider {
+	@apply h-6 w-px bg-amber-300 mx-auto my-1;
+}
+
+/* Additional Insights Section */
+.insights-card {
+	@apply bg-gradient-to-br from-purple-50 via-fuchsia-50 to-pink-50;
+	@apply border-2 border-purple-200 rounded-xl p-6;
+	@apply shadow-sm hover:shadow-md transition-all duration-300;
+}
+
+.insight-section {
+	@apply mb-4 last:mb-0;
+	@apply bg-white bg-opacity-80 rounded-lg p-4;
+	@apply border border-purple-200;
+	transition: all 0.2s ease;
+}
+
+.insight-section:hover {
+	@apply border-purple-300 bg-opacity-100 shadow-sm;
+}
+
+.insight-label {
+	@apply flex items-center gap-2 mb-2;
+	@apply text-sm font-bold text-purple-900;
+}
+
+.insight-label::before {
+	content: '💡';
+	@apply text-base;
+}
+
+.insight-content {
+	@apply text-sm text-gray-700 leading-relaxed;
+	@apply pl-6;
+}
+
+.insight-list-item {
+	@apply flex items-start gap-2 py-1.5;
+	@apply text-sm text-gray-700;
+}
+
+.insight-list-item::before {
+	content: '▸';
+	@apply text-purple-500 font-bold mt-0.5 flex-shrink-0;
+}
+
+/* Section Headers */
+.section-header {
+	@apply flex items-center gap-3 mb-4;
+}
+
+.section-header-icon {
+	@apply w-10 h-10 rounded-lg flex items-center justify-center;
+	@apply bg-gradient-to-br shadow-md;
+	animation: fadeInScale 0.3s ease-out;
+}
+
+.section-header-icon.price {
+	@apply from-emerald-400 to-green-600;
+}
+
+.section-header-icon.timeline {
+	@apply from-blue-400 to-sky-600;
+}
+
+.section-header-icon.quality {
+	@apply from-purple-400 to-violet-600;
+}
+
+.section-header-icon.tradeoff {
+	@apply from-yellow-400 to-amber-600;
+}
+
+.section-header-icon.negotiation {
+	@apply from-teal-400 to-cyan-600;
+}
+
+.section-header-icon.steps {
+	@apply from-amber-400 to-orange-600;
+}
+
+.section-header-icon.insights {
+	@apply from-purple-400 to-fuchsia-600;
+}
+
+.section-header-title {
+	@apply text-lg font-bold text-gray-900;
+}
+
+.section-header-subtitle {
+	@apply text-xs text-gray-600 mt-0.5;
+}
+
+/* Enhanced Grid Layouts */
+.insight-grid {
+	@apply grid grid-cols-1 gap-3;
+}
+
+@media (min-width: 768px) {
+	.insight-grid {
+		@apply grid-cols-2;
+	}
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+	.contractor-ratings {
+		@apply grid-cols-1;
+	}
+	
+	.contractor-name {
+		@apply text-lg;
+	}
+	
+	.contractor-price {
+		@apply text-xl;
+	}
+	
+	.contractor-overall-rating {
+		@apply text-3xl;
+	}
+	
+	.comparison-summary-content {
+		@apply p-5;
+	}
+	
+	.comparison-summary-header {
+		@apply flex-col gap-4;
+	}
+	
+	.contractor-quick-cards {
+		@apply grid-cols-1;
+	}
+}
+

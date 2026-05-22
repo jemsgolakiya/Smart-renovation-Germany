@@ -1,0 +1,128 @@
+name: Test Frontend and Backend
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-frontend:
+    name: Test React Frontend
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: Install frontend dependencies
+      working-directory: ./frontend  # Adjust to your frontend directory
+      run: npm install
+    
+    - name: Run frontend linter
+      working-directory: ./frontend
+      run: npm run lint
+      continue-on-error: true  # Set to false if you want lint errors to fail the build
+    
+    - name: Run frontend tests
+      working-directory: ./frontend
+      run: npm test -- --coverage --watchAll=false
+    
+    - name: Build frontend
+      working-directory: ./frontend
+      run: npm run build
+    
+    - name: Verify frontend build
+      working-directory: ./frontend
+      run: |
+        # Check if build folder exists
+        if [ ! -d "build" ]; then
+          echo "❌ Build folder not found!"
+          exit 1
+        fi
+        
+        # Check if index.html exists
+        if [ ! -f "build/index.html" ]; then
+          echo "❌ index.html not found in build!"
+          exit 1
+        fi
+        
+        echo "✅ Frontend build successful and contains required files!"
+        
+        # Optional: Serve the build and check if it loads
+        npx serve -s build -l 3000 &
+        SERVER_PID=$!
+        sleep 3
+        
+        if curl -f http://localhost:3000/; then
+          echo "✅ Frontend is servable and responding!"
+        else
+          echo "⚠️ Warning: Frontend build exists but server didn't respond"
+        fi
+        
+        kill $SERVER_PID || true
+
+
+  test-backend:
+    name: Test Python Backend
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install backend dependencies
+      working-directory: ./backend
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov flake8  # Testing and linting tools
+    
+    - name: Run backend linter
+      working-directory: ./backend
+      run: flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+      continue-on-error: true
+    
+    - name: Run Django migrations
+      working-directory: ./backend
+      run: python manage.py migrate --no-input
+    
+    - name: Run backend tests
+      working-directory: ./backend
+      run: pytest --cov=. --cov-report=xml --cov-report=term
+    
+    - name: Start Django server and verify
+      working-directory: ./backend
+      run: |
+        python manage.py runserver 8000 &
+        SERVER_PID=$!
+        
+        echo "Waiting for Django server to start..."
+        sleep 5
+        if curl -f http://localhost:8000/; then
+          echo "✅ Django server is running!"
+          kill $SERVER_PID
+          exit 0
+        else
+          echo "❌ Django server failed to respond"
+          kill $SERVER_PID || true
+          exit 1
+        fi
+    
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        files: ./backend/coverage.xml
+        flags: backend
+      continue-on-error: true

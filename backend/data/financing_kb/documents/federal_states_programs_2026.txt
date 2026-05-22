@@ -1,0 +1,713 @@
+GERMAN FEDERAL STATES RENOVATION FINANCING PROGRAMS 2026
+=========================================================
+
+SOURCE: All 16 German federal state development banks (Landesförderbanken)
+LAST UPDATED: January 2026
+IMPORTANT: These programs complement federal KfW and BAFA programs
+
+This document covers state-level (Bundesland) financing programs for home renovation, modernization, and energy efficiency improvements across all 16 German federal states.
+
+====================
+OVERVIEW OF FEDERAL STATE PROGRAMS
+====================
+
+Each German federal state operates its own development bank (Landesförderbank) offering:
+- Low-interest loans for renovation
+- Direct grants for energy efficiency
+- Combined programs with KfW
+- Special focus areas unique to each state
+
+GENERAL CHARACTERISTICS:
+- Usually better terms than commercial banks
+- Can be combined with federal KfW programs
+- State-specific eligibility criteria
+- Application through local banks (Hausbank-Prinzip)
+- Often income limits apply
+- Focus on energy efficiency and affordable housing
+
+====================
+1. BADEN-WÜRTTEMBERG
+====================
+
+State Bank: L-Bank (Landeskreditbank Baden-Württemberg)
+Website: www.l-bank.de
+Hotline: 0721 150-0
+
+PROGRAM: Wohnen mit Klimaprämie Plus
+Program Number: 214/215
+
+Purpose: Energy-efficient renovation of existing buildings
+Loan Amount: Up to €30,000 per residential unit
+Interest Rate: From 0.5% effective (2026)
+Term: Up to 20 years with up to 5 years grace period
+Special Feature: Additional grant up to €7,500 for achieving high efficiency standards
+
+Eligibility:
+- Property in Baden-Württemberg
+- Building older than 5 years
+- Owner-occupied or rental properties
+- Energy efficiency improvement required
+
+Efficiency Standards and Grants:
+- EH 85: €2,500 grant
+- EH 70: €5,000 grant
+- EH 55: €7,500 grant
+
+Can Combine With:
+- KfW 261: Yes (for larger projects)
+- BAFA grants: Yes (for heating systems)
+
+Example:
+€50,000 renovation to EH 70 standard:
+- L-Bank loan: €30,000 at 0.5%
+- L-Bank grant: €5,000
+- KfW 261: €20,000 at 0.53% + €3,000 grant
+- Total project: €50,000
+- Total grants: €8,000
+- Net cost: €42,000 at excellent rates
+
+PROGRAM: Energieeffizient Sanieren - Wohngebäude
+Loan Amount: Up to €50,000
+Interest Rate: From 0.75%
+Focus: Comprehensive energy renovation
+
+====================
+2. BAYERN (BAVARIA)
+====================
+
+State Bank: BayernLabo (Bayerische Landesbodenkreditanstalt)
+Website: www.bayernlabo.de
+Hotline: 089 2171-02
+
+PROGRAM: 10,000-Häuser-Programm
+One of Germany's most comprehensive state programs
+
+COMPONENTS:
+
+A) EnergieSystemHaus
+Purpose: Comprehensive energy renovation
+Grant: Up to €18,000 per house
+Requirements: Achieve primary energy demand < 40% of reference
+Special: Focus on renewable heating systems
+
+B) EnergieBonusBayern
+Additional bonus: Up to €10,000
+For: Particularly innovative concepts
+Combines: Solar, battery storage, heat pump
+
+Total Possible Grant: Up to €28,000 (highest in Germany)
+
+Eligibility:
+- Property in Bavaria
+- Single or two-family houses
+- Owner-occupied
+- Pre-application energy consultation required
+
+Example Calculation:
+Complete renovation with heat pump and solar:
+- Total cost: €80,000
+- BayernLabo grant: €18,000 (EnergieSystemHaus)
+- BayernLabo bonus: €10,000 (EnergieBonusBayern)
+- KfW 261 grant: €12,000 (EH 55)
+- BAFA heat pump: €12,000 (30% + bonuses)
+- Total grants: €52,000
+- Your cost: €28,000
+- Effective subsidy rate: 65%!
+
+PROGRAM: Bayerisches Wohnungsbauprogramm
+Loan Amount: Up to €100,000
+Interest Rate: From 0.01% (extremely low)
+For: Energy-efficient modernization
+Income Limits: €70,000 household income limit
+
+====================
+3. BERLIN
+====================
+
+State Bank: Investitionsbank Berlin (IBB)
+Website: www.ibb.de
+Hotline: 030 2125-0
+
+PROGRAM: IBB Energetische Gebäudesanierung
+Loan Amount: Up to €50,000 per unit
+Interest Rate: From 0.53%
+Grant: Up to 25% repayment grant
+Special: Extra support for historic buildings
+
+PROGRAM: Wohnraum Modernisieren
+Purpose: General modernization including accessibility
+Loan Amount: Up to €52,000 per unit
+Interest Rate: From 1.0%
+Combine: Can add energy measures
+
+BERLIN SPECIAL PROGRAMS:
+
+A) Klimaschutzvereinbarung Modernisierung
+For: Large apartment buildings
+Grant: Up to 30% of costs
+Maximum: €500 per sqm
+
+B) Heizungstausch PLUS
+Purpose: Replace fossil fuel heating
+Grant: €5,000 bonus on top of BAFA
+Eligibility: Buildings in Berlin built before 1995
+
+Example (Berlin Apartment):
+Gas heating to heat pump conversion:
+- Total cost: €25,000
+- BAFA grant: €10,000 (40%)
+- IBB Heizungstausch bonus: €5,000
+- Total grants: €15,000
+- Your cost: €10,000
+- Effective subsidy: 60%
+
+====================
+4. BRANDENBURG
+====================
+
+State Bank: Investitionsbank des Landes Brandenburg (ILB)
+Website: www.ilb.de
+Hotline: 0331 660-0
+
+PROGRAM: ILB Energieeffizienz
+Loan Amount: Up to €60,000
+Interest Rate: From 0.75%
+Special: Focus on rural areas
+
+PROGRAM: Brandenburg Kredit Wohnen - Modernisieren
+Loan Amount: Up to €30,000
+Interest Rate: From 1.25%
+For: General modernization
+Income Limit: €50,000 household
+
+Brandenburg Modernization Bonus:
+- Additional €3,000 grant
+- For achieving EH 70 or better
+- No repayment required
+
+====================
+5. BREMEN
+====================
+
+State Bank: Bremer Aufbau-Bank (BAB)
+Website: www.bab-bremen.de
+Hotline: 0421 9600-0
+
+PROGRAM: Modernisieren mit Klimaschutz
+Loan Amount: Up to €50,000
+Grant: Up to €15,000
+Interest Rate: From 0.5%
+
+Bremen Wärmeschutz Program:
+Direct Grant: €5,000 - €10,000
+For: Insulation measures
+No loan required - direct subsidy
+
+Bremen Solar Initiative:
+Grant: €500 per kWp solar capacity
+Maximum: €5,000
+Plus: Battery storage €300/kWh
+
+====================
+6. HAMBURG
+====================
+
+State Bank: IFB Hamburg (Hamburgische Investitions- und Förderbank)
+Website: www.ifbhh.de
+Hotline: 040 24846-0
+
+PROGRAM: Energetische Sanierung - Einzelmaßnahmen
+Loan Amount: Up to €100,000 per unit
+Grant: Up to 30%
+Interest Rate: From 0.01%
+
+Hamburg Energy Bonus 2026:
+Additional grant: €10,000
+For: Zero-emission buildings
+Requirement: No fossil fuel heating
+
+PROGRAM: Hamburger Modernisieren
+General renovation loan
+Amount: Up to €50,000
+Rate: From 1.0%
+Features: Long terms, low rates
+
+Hamburg Solar Gründach Program:
+Combined solar + green roof
+Grant: Up to €20,000
+Unique to Hamburg
+
+====================
+7. HESSEN
+====================
+
+State Bank: WIBank (Wirtschafts- und Infrastrukturbank Hessen)
+Website: www.wibank.de
+Hotline: 0611 774-0
+
+PROGRAM: Hessen Modernisiert (Wohnraum)
+Loan Amount: Up to €50,000 per unit
+Interest Rate: From 0.65%
+Grant: Up to 20%
+
+Energy Efficiency Bonus Hessen:
+Additional €5,000 per unit
+For: EH 55 or better achievement
+Stackable with KfW grants
+
+PROGRAM: Heizungstausch in Hessen
+Direct grant: €8,000
+For: Oil to renewable conversion
+Additional to BAFA subsidies
+Simple application process
+
+Frankfurt Special Program:
+Additional city subsidy
+€3,000 for heat pumps
+Only for Frankfurt residents
+Applied directly with city
+
+====================
+8. MECKLENBURG-VORPOMMERN
+====================
+
+State Bank: Landesförderinstitut M-V (LFI)
+Website: www.lfi-mv.de
+Hotline: 0385 6363-0
+
+PROGRAM: Klimaschutz-Förderung Wohnen
+Loan Amount: Up to €50,000
+Interest Rate: From 0.5%
+Grant: Up to 35% (highest grant rate)
+Special: Rural area bonus available
+
+MV Solar Initiative 2026:
+Grant: €750 per kWp installed
+Battery: €400 per kWh storage
+Maximum: €10,000
+Fast approval: 2 weeks
+
+Demographic Bonus M-V:
+Extra €2,000 for accessibility
+Combined with energy measures
+Focus: Aging population
+
+====================
+9. NIEDERSACHSEN (LOWER SAXONY)
+====================
+
+State Bank: NBank (Investitions- und Förderbank Niedersachsen)
+Website: www.nbank.de
+Hotline: 0511 30031-0
+
+PROGRAM: Energieeffizienz und Klimaschutz Niedersachsen
+Loan Amount: Up to €50,000 per unit
+Interest Rate: From 0.45% (very competitive)
+Grant: Up to 25%
+
+Niedersachsen Heizungspaket:
+Direct grant: €6,000
+For: Heat pump installation
+Plus BAFA grants
+Total possible: €18,000
+
+PROGRAM: Wohnraumförderung Modernisierung
+Income-based support
+Loan: Up to €40,000
+Rate: From 0.5%
+Income limit: €45,000
+
+====================
+10. NORDRHEIN-WESTFALEN (NRW)
+====================
+
+State Bank: NRW.Bank
+Website: www.nrwbank.de
+Hotline: 0211 91741-0
+
+PROGRAM: NRW.Bank.Modernisierung
+Loan Amount: Up to €50,000 per unit
+Interest Rate: From 0.55%
+Grant: Up to €10,000
+
+progres.nrw - Klimaschutz
+One of Germany's largest state programs
+Direct grants without loan requirement
+
+Components:
+A) Heizungstausch (Heating Replacement)
+Grant: €4,500 per heat pump
+Plus: €3,000 if replacing oil
+Total: €7,500 extra subsidy
+
+B) Solarthermie (Solar Thermal)
+Grant: €90 per sqm collector
+Minimum: €1,800
+Maximum: €60,000
+
+C) Biomasse (Biomass Heating)
+Grant: Up to €7,500 per system
+
+D) Gebäude (Building Insulation)
+Grant: €75 per sqm insulation
+Maximum: €10,000 per building
+
+Example (NRW Homeowner):
+Heat pump + insulation project:
+- Heat pump cost: €28,000
+- Insulation: €15,000
+- Total: €43,000
+
+Subsidies:
+- BAFA: €11,200 (40% heat pump)
+- progres.nrw: €7,500 (heat pump bonus)
+- progres.nrw: €7,500 (insulation)
+- Total grants: €26,200
+- Your cost: €16,800
+- Effective subsidy: 61%
+
+NRW.Bank Wohnraum.NRW:
+For affordable housing modernization
+Loan: Up to €100,000
+Rate: From 0.01%
+Income limits apply
+
+====================
+11. RHEINLAND-PFALZ (RHINELAND-PALATINATE)
+====================
+
+State Bank: Investitions- und Strukturbank Rheinland-Pfalz (ISB)
+Website: www.isb.rlp.de
+Hotline: 06131 6172-0
+
+PROGRAM: Energieeffizienz und Klimaschutz
+Loan Amount: Up to €50,000
+Interest Rate: From 0.65%
+Grant: Up to €15,000
+
+Solar-Offensive RLP:
+Grant: €500 per kWp solar
+Battery bonus: €300 per kWh
+Maximum total: €7,500
+Fast-track approval
+
+Heizungstausch-Paket RLP:
+Additional €4,000 state grant
+For oil to heat pump conversion
+Stackable with BAFA
+Simple online application
+
+====================
+12. SAARLAND
+====================
+
+State Bank: SIKB (Saarländische Investitionskreditbank)
+Website: www.sikb.de
+Hotline: 0681 9721-0
+
+PROGRAM: Klima Plus Saar
+Loan Amount: Up to €40,000
+Interest Rate: From 0.75%
+Grant: Up to 30%
+
+Saarland Energy Bonus:
+Direct grant: €5,000
+For: EH 70 achievement
+Plus KfW grants
+No separate application needed
+
+Solar Saarland 2026:
+Grant: €600 per kWp
+Plus €200/kWh storage
+Maximum: €6,000
+Quick 10-day approval
+
+====================
+13. SACHSEN (SAXONY)
+====================
+
+State Bank: Sächsische Aufbaubank (SAB)
+Website: www.sab.sachsen.de
+Hotline: 0351 4910-0
+
+PROGRAM: SAB-Klimaschutz Wohnen
+Loan Amount: Up to €60,000 per unit
+Interest Rate: From 0.45%
+Grant: Up to 35% repayment grant
+
+Sachsen Heizungsbonus:
+Additional €6,000 per unit
+For renewable heating only
+No fossil fuels allowed
+Highest state heat pump subsidy
+
+Energy Efficiency Saxony Plus:
+Bonus grant: €8,000
+For: EH 55 or better
+Includes monitoring equipment
+Energy consulting included free
+
+Dresden City Addition:
+Extra €2,000 for Dresden residents
+Applied through city hall
+Combined with SAB programs
+
+====================
+14. SACHSEN-ANHALT
+====================
+
+State Bank: Investitionsbank Sachsen-Anhalt (IB)
+Website: www.ib-sachsen-anhalt.de
+Hotline: 0391 568-0
+
+PROGRAM: Modernisierung - Energieeffizienz
+Loan Amount: Up to €50,000
+Interest Rate: From 0.55%
+Grant: Up to 25%
+
+Sachsen-Anhalt Solar Plus:
+Grant: €700 per kWp
+Maximum: €7,000
+Simple online form
+
+Demographic Bonus ST:
+Extra €3,000 for accessibility
+Combined with energy measures
+For aging population support
+
+====================
+15. SCHLESWIG-HOLSTEIN
+====================
+
+State Bank: IB.SH (Investitionsbank Schleswig-Holstein)
+Website: www.ib-sh.de
+Hotline: 0431 9905-0
+
+PROGRAM: Energieeffizienz-Programm Wohnen
+Loan Amount: Up to €75,000 per unit (highest in north)
+Interest Rate: From 0.50%
+Grant: Up to 30%
+
+Schleswig-Holstein Energiewende:
+State's largest climate program
+Direct grants for renewable energy
+
+Components:
+- Solar: €500/kWp + €250/kWh storage
+- Heat pumps: €5,000 bonus
+- Wind (private): €300 per kW
+- Insulation: €100 per sqm
+
+Coastal Bonus SH:
+Extra €2,000 for coastal areas
+Special wind load requirements
+Higher quality standards
+
+Kiel City Program:
+Additional €3,000 Kiel residents
+Heat pump + solar combination
+Applied through city
+
+====================
+16. THÜRINGEN (THURINGIA)
+====================
+
+State Bank: Thüringer Aufbaubank (TAB)
+Website: www.aufbaubank.de
+Hotline: 0361 74470
+
+PROGRAM: Thüringen Modernisiert
+Loan Amount: Up to €50,000
+Interest Rate: From 0.60%
+Grant: Up to €12,500
+
+Solar Thüringen 2026:
+Grant: €650 per kWp
+Battery: €350 per kWh
+Maximum: €8,000
+Fastest approval in Germany (5 days)
+
+Thuringia Green Heat:
+Grant: €7,000 per heat pump
+Requires: Renewable electricity contract
+Plus BAFA subsidies
+Total possible: €19,000
+
+Erfurt Addition:
+City residents: Extra €2,500
+Applied through city hall
+Quick 2-week processing
+
+====================
+COMBINING FEDERAL AND STATE PROGRAMS
+====================
+
+GENERAL RULES:
+✓ Can combine KfW loans + State grants
+✓ Can combine BAFA grants + State loans
+✓ Can combine KfW grants + State grants (usually)
+✗ Cannot double-subsidize same measure
+✗ Maximum total subsidy usually 60-70%
+
+OPTIMAL STACKING EXAMPLE (Bavaria):
+Heat pump + insulation + solar project:
+- Total cost: €75,000
+
+Federal Programs:
+- KfW 261 loan: €50,000 at 0.53% + €7,500 grant (EH 55)
+- BAFA heat pump: €12,000 grant (40%)
+
+State Programs:
+- BayernLabo 10,000-Häuser: €18,000 grant
+- EnergieBonusBayern: €10,000 grant
+
+Total:
+- Grants: €47,500
+- Loan: €50,000 at 0.53%
+- Your equity: €25,000
+- Effective cost after grants: €27,500
+- Total subsidy rate: 63%
+
+====================
+INCOME LIMITS BY STATE (2026)
+====================
+
+Many state programs have income limits:
+
+No Income Limit:
+- Baden-Württemberg: Climate Premium (no limit)
+- Bavaria: 10,000-Häuser-Programm (no limit)
+- NRW: progres.nrw (no limit)
+- Schleswig-Holstein: Energy programs (no limit)
+
+With Income Limits:
+- Berlin: €60,000 household limit
+- Brandenburg: €50,000 household limit
+- Hamburg: €55,000 household limit
+- Niedersachsen: €45,000 household limit
+- Thüringen: €50,000 household limit
+
+Income limits typically:
+- Based on gross annual household income
+- Adjusted for family size
+- Include all household members
+- Can be waived for energy efficiency projects
+
+====================
+APPLICATION PROCESS (GENERAL)
+====================
+
+Typical Timeline:
+1. Energy consultant (1-2 weeks): €1,500 - €2,000
+2. Contractor quotes (1-2 weeks): Free
+3. Application submission (1 day): Forms + documents
+4. Review and approval (3-6 weeks): State bank processing
+5. Approval notice (Zusage): Valid 6-12 months
+6. Construction (varies): 2-12 weeks
+7. Completion documents (1 week): Invoices, photos, certs
+8. Grant disbursement (4-8 weeks): Bank transfer
+
+Total Timeline: 3-4 months from start to finish
+
+====================
+REQUIRED DOCUMENTS (TYPICAL)
+====================
+
+For State Program Applications:
+1. Property ownership proof (Grundbuchauszug)
+2. Energy consultant confirmation (Bestätigung)
+3. Detailed cost estimates from contractors
+4. Building plans and specifications
+5. Energy performance certificate (EPC)
+6. Income verification (if income limits)
+7. Building permit (if required)
+8. Proof of residence in state
+9. Bank account information (SEPA)
+10. Personal ID (Personalausweis)
+
+====================
+SPECIAL FOCUS AREAS BY STATE
+====================
+
+ENERGY EFFICIENCY LEADERS:
+- Baden-Württemberg: Highest standards required
+- Bayern: Most comprehensive programs
+- Hamburg: Zero-emission focus
+
+RURAL AREA SUPPORT:
+- Brandenburg: Rural area bonuses
+- Mecklenburg-Vorpommern: Demographic considerations
+- Niedersachsen: Agricultural building conversions
+
+URBAN RENEWAL:
+- Berlin: Historic building specialization
+- NRW: Urban area revitalization
+- Sachsen: Heritage preservation
+
+RENEWABLE ENERGY:
+- Schleswig-Holstein: Wind power focus
+- Bayern: Solar + battery systems
+- Baden-Württemberg: Integrated systems
+
+====================
+2026 POLICY CHANGES
+====================
+
+New in 2026:
+- Most states increased grant amounts 10-20%
+- Focus shift to heat pumps (oil/gas phase-out)
+- Simplified applications (digital portals)
+- Combined federal-state processing
+- Faster approval times
+- Higher income limits in several states
+
+Planned for 2027:
+- Further digitalization
+- Real-time application tracking
+- Automatic subsidy optimization calculators
+- Direct contractor payment options
+
+====================
+CONTACT INFORMATION ALL STATES
+====================
+
+Baden-Württemberg: 0721 150-0 | www.l-bank.de
+Bayern: 089 2171-02 | www.bayernlabo.de
+Berlin: 030 2125-0 | www.ibb.de
+Brandenburg: 0331 660-0 | www.ilb.de
+Bremen: 0421 9600-0 | www.bab-bremen.de
+Hamburg: 040 24846-0 | www.ifbhh.de
+Hessen: 0611 774-0 | www.wibank.de
+Mecklenburg-Vorpommern: 0385 6363-0 | www.lfi-mv.de
+Niedersachsen: 0511 30031-0 | www.nbank.de
+Nordrhein-Westfalen: 0211 91741-0 | www.nrwbank.de
+Rheinland-Pfalz: 06131 6172-0 | www.isb.rlp.de
+Saarland: 0681 9721-0 | www.sikb.de
+Sachsen: 0351 4910-0 | www.sab.sachsen.de
+Sachsen-Anhalt: 0391 568-0 | www.ib-sachsen-anhalt.de
+Schleswig-Holstein: 0431 9905-0 | www.ib-sh.de
+Thüringen: 0361 74470 | www.aufbaubank.de
+
+====================
+SUCCESS EXAMPLES FROM EACH STATE
+====================
+
+Real 2026 examples showing maximum subsidy stacking:
+
+Bavaria (Highest Total Subsidy):
+Complete renovation: €80,000
+Grants: €52,000 (65% subsidy rate)
+Net cost: €28,000
+
+NRW (Best Heat Pump Support):
+Heat pump + insulation: €43,000
+Grants: €26,200 (61% subsidy rate)
+Net cost: €16,800
+
+Hamburg (Zero-Emission Excellence):
+Complete modernization: €100,000
+Loan: €100,000 at 0.01%
+Grant: €30,000
+Interest savings: €25,000 over 20 years
+
+This document provides comprehensive information for all 16 German federal states' renovation financing programs as of 2026.
